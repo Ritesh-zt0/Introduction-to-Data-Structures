@@ -36,7 +36,7 @@ We talk about data-structures as:
      
        Array vs Linked List:
        
-      > ![tttt](https://user-images.githubusercontent.com/93812163/236384558-dd0eaf29-5632-4c35-90a0-781528a9d66d.png)
+       > ![tttt](https://user-images.githubusercontent.com/93812163/236384558-dd0eaf29-5632-4c35-90a0-781528a9d66d.png)
 
 
 
