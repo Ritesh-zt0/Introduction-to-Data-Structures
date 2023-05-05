@@ -34,7 +34,7 @@ We talk about data-structures as:
      - No extra use of memory because we create and delete nodes as and when needed.
      ![tttt](https://user-images.githubusercontent.com/93812163/236188922-0eabe460-332e-4fb7-9519-be19c55ca619.png)
      
-      > Array vs Linked List:
+       Array vs Linked List:
        
       > ![tttt](https://user-images.githubusercontent.com/93812163/236384558-dd0eaf29-5632-4c35-90a0-781528a9d66d.png)
 
